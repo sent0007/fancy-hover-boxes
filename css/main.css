@@ -17,7 +17,6 @@ img {
 section {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
-  gutter: 0;
 }
 
 .hover-box {
